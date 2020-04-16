@@ -23,4 +23,5 @@ def find_the_cheese(array) # code an argument here
       return ele
     end
   end
+  nil
 end
